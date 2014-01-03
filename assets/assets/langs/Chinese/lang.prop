@@ -1,0 +1,142 @@
+﻿ok = 确定
+yes = 确认
+no = 取消
+done = 完成
+cancel = 取消
+tryagain = 重试
+exit = 退出
+about = 关于
+continue = 继续
+select = 选择
+close = 关闭
+
+canceling = 正在取消...
+finishing = 即将完成...
+calculating = 正在计算...
+discovered = 发现 %s 个文件
+deleting = 正在删除 %s 个文件
+moving = 正在移动第 %s 个，总共 %s 个文件
+copying = 正在复制第 %s 个，总共 %s 个文件
+progress.of = 已复制 %s ，共 %s
+
+seconds = 秒
+minutes = 分
+hours = 小时
+remaining = 剩余
+
+mounting = 挂载设备
+exit.message = 确认要退出文件管理器吗?
+
+tools.newfolder = 新建文件夹
+tools.favorite = 收藏夹
+tools.selectall = 全选
+tools.unselect = 全不选
+tools.copy = 复制
+tools.cut = 剪切
+tools.paste = 粘贴
+tools.menu = 菜单
+tools.delete = 删除
+tools.details = 详情
+tools.chmod = 更改权限
+tools.rename = 重命名
+tools.favorite.add = 添加到收藏夹
+tools.favorite.del = 从收藏夹移除
+tools.hiddenfile = 不显示“隐藏”的文件
+tools.hiddenfile.show = 显示“隐藏”的文件
+tools.terminal = 打开终端
+
+file.exists = 文件已存在
+file.exists.info = 已经有一个文件名相同的文件或文件夹
+overwrite.skip = 跳过
+overwrite.skipall = 全部跳过
+overwrite = 覆盖
+overwrite.all = 全部覆盖
+
+disk.full = 磁盘已满
+disk.full.info = 磁盘空间不足，跳过此文件?
+disk.full.info2 = 磁盘已满，操作已取消.
+
+newfolder = 新建文件夹
+newfolder.insertname = 命名文件夹
+newfolder.exist = 指定的文件夹和已有的某个文件重名.\
+\
+请指定其他名称.
+
+paste.location = 选择目标位置
+
+dir.root = 根目录
+dir.filecount = %s 个文件
+dir.filecounts = %s 个文件
+
+selected.file = 已选择 %i 个文件
+selected.files = 已选择 %i 个文件
+
+symlink = 链接
+symlink.error = 链接错误
+
+settings = 设置
+settings.calib = 屏幕校正
+settings.reset = 重置设置
+
+settings.toolbar = 工具栏风格
+settings.toolbar.icontext = 显示图标和文本
+settings.toolbar.icononly = 仅显示图标
+
+settings.fontsize = 字体大小
+settings.fontsize.small = 小
+settings.fontsize.medium = 中
+settings.fontsize.big = 大
+
+settings.fontfamily = 字体
+settings.iconset = 图标
+settings.themes = 主题
+settings.lang = 语言
+
+settings.trans = 过渡效果
+settings.trans.0 = 无过渡效果
+settings.trans.1 = 快速
+settings.trans.2 = 一般
+settings.trans.3 = 流畅
+settings.trans.4 = 超顺滑
+
+settings.mount = 挂载选项
+settings.mount.all = 启动时自动挂载全部
+settings.mount.none = 不做任何操作
+
+settings.reset.msg = 确定重置所有设置?
+
+newfolder.error = 无法新建文件夹
+
+rename = 重命名文件
+rename.insertname = 键入新文件名
+rename.exist = 已存在同名文件.\
+\
+请重新输入.
+rename.error = 无法重命名文件
+
+paste.error = 粘贴错误
+paste.subfolder_paste = 目标文件夹是原文件夹的子目录.\
+\
+尝试粘贴至别处.
+paste.nofile = 没有任何文件粘贴至此
+
+copy.prepare = 准备复制...
+move.prepare = 准备移动...
+delete.prepare = 准备删除...
+
+delete.title = 删除文件
+delete.message = 确认永久删除 %s 个项目?
+
+tools.chmod.read = 读
+tools.chmod.write = 写
+tools.chmod.exec = 执行
+tools.chmod.user = 所有者
+tools.chmod.group = 用户组
+tools.chmod.others = 其他
+tools.chmod.setuid = 设置 UID
+tools.chmod.setgid = 设置 GID
+tools.chmod.sticky = 粘滞
+
+tools.terminal.title = 终端
+tools.terminal.terminate = 终止
+tools.terminal.terminate_info = Shell脚本正在执行…您确定要终止吗？
