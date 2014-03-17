@@ -44,10 +44,10 @@ void aui_cfg_init() {
   auicv.colorspace = 1;
   auicv.showhidden = 0;
   acfg()->fadeframes = 4;
-  snprintf(auicv.fontfamily, 256, "Droid Sans");
+  snprintf(auicv.fontfamily, 256, "Chinese fonts");
   snprintf(auicv.iconset, 256, "Generic");
-  snprintf(auicv.language, 256, "English");
-  snprintf(auicv.theme, 256, "");
+  snprintf(auicv.language, 256, "Chinese");
+  snprintf(auicv.theme, 256, "Sense 4");
 }
 
 int aui_cfg_btnFH() {
