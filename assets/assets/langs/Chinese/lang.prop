@@ -1,4 +1,4 @@
-﻿ok = 确定
+ok = 确定
 yes = 确认
 no = 取消
 done = 完成
@@ -25,6 +25,7 @@ hours = 小时
 remaining = 剩余
 
 mounting = 挂载设备
+umounting = 恢复设备
 exit.message = 确认要退出文件管理器吗?
 
 tools.newfolder = 新建文件夹
@@ -86,6 +87,12 @@ settings.fontsize = 字体大小
 settings.fontsize.small = 小
 settings.fontsize.medium = 中
 settings.fontsize.big = 大
+
+settings.colorspace = 设置色彩
+settings.colorspace.rgba = RGBA (SG Note 3)
+settings.colorspace.abgr = ABGR
+settings.colorspace.argb = ARGB
+settings.colorspace.bgra = BGRA
 
 settings.fontfamily = 字体
 settings.iconset = 图标
